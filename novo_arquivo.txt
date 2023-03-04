@@ -1,0 +1,21 @@
+**** ALTERAÇÕES NO ARQUIVO ****
+
+Este arquivo é um arquivo de texto rastreado pelo GIT e está sendo alterado através do comando NANO.
+
+Após as alterações serem salvas, as modificações serão registradas com os comandos ADD e COMMIT.
+
+Em seguida, as alterações serão enviadas ao repositório remoto (GitHub) com o comando PUSH.
+
+--> $ push origin principal 
+	onde :
+		'origin' refere-se ao repositório remoto git@github.com:mkcantuario/teste_pessoal.git
+		'principal' refere-se à ramificação atual de trabalho
+
+Por fim, o arquivo será recebido em um diretório local diferente através dos comandos FETCH e MERGE, ou usando 
+apenas o comando PULL.
+
+--> $ pull origin principal
+
+
+______________________________
+TESTE NÚMERO 001
